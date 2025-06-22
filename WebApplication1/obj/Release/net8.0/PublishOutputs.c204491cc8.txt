@@ -1,0 +1,12 @@
+C:\Users\osmol\Downloads\publicados\WebApplication1.exe
+C:\Users\osmol\Downloads\publicados\appsettings.Development.json
+C:\Users\osmol\Downloads\publicados\appsettings.json
+C:\Users\osmol\Downloads\publicados\WebApplication1.dll
+C:\Users\osmol\Downloads\publicados\WebApplication1.deps.json
+C:\Users\osmol\Downloads\publicados\WebApplication1.runtimeconfig.json
+C:\Users\osmol\Downloads\publicados\WebApplication1.pdb
+C:\Users\osmol\Downloads\publicados\Microsoft.AspNetCore.OpenApi.dll
+C:\Users\osmol\Downloads\publicados\Microsoft.OpenApi.dll
+C:\Users\osmol\Downloads\publicados\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\osmol\Downloads\publicados\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\osmol\Downloads\publicados\Swashbuckle.AspNetCore.SwaggerUI.dll
